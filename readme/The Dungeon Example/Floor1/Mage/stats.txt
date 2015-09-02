@@ -1,0 +1,6 @@
+health	100
+str		5
+wis		5
+vit		3
+air		0
+armor	20
