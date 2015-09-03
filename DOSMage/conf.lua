@@ -1,7 +1,7 @@
 -- Configuration
 function love.conf(t)
 	t.title = "BIOS Mage"
-	t.version = "0.9.2"
+	t.version = "0.9.2" --this number is mandatory for love2d to work
 	t.window.width = 640
 	t.window.height = 480
 
